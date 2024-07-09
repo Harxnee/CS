@@ -1,0 +1,5 @@
+transformers==4.30.2  # or the latest stable version
+optimum==1.7.0  # or the latest stable version
+streamlit==1.19.0  # or the latest stable version
+huggingface-hub==0.15.1  # or the latest stable version
+torch==2.0.1  # or the latest stable version, if using PyTorch backend
